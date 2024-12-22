@@ -1,4 +1,5 @@
-let nav = document.querySelector("#nav__height")
+const landingPage = document.querySelector("#landing")
+
 function openMenu() {
     document.body.classList += " menu--open";
 };
